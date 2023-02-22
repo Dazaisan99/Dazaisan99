@@ -1,11 +1,14 @@
 ## Who am I ?
 
-I am a 9th grader in France and a computer enjoyer. 
+I am a 9th grader in France and a computer enjoyer.
+
+![Dazaisan99's stats](https://github-readme-stats.vercel.app/api?username=Dazaisan99&show_icons=true&theme=radical)
 
 ## About me
 
 -> I know Python and Rust, as well as bribes of Java, HTML and CSS, even though I haven't taken interest in these that much. <br>
 -> I have learnt how to use \LaTeX, for those sweet, beautiful documents <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dazaisan99&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
 -> I am fascinated by OS devs and the low-level in general, that's why I'm trying to get better at Rust and maybe even get my hands on some C and assembly <br>
 -> I am a FOSS and Linux enjoyer. I daily drive Arch BTW ! I also firmly recommend Garuda Linux because it's done me well in the past and works like a charm. <a href="https://garudalinux.org/" title="Their website"> Their website</a> <br>
 
