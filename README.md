@@ -1,8 +1,6 @@
 ## Who am I ?
 
-I am a 9th grader in France and a computer enjoyer.
-
-![Dazaisan99's stats](https://github-readme-stats.vercel.app/api?username=Dazaisan99&show_icons=true&theme=radical)
+I am a 10th grader in France and a computer and math nerd.
 
 ## About me
 
